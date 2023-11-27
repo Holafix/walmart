@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/walmart/static/css/main.1ea84552.css",
+    "main.js": "/walmart/static/js/main.02f20036.js",
+    "static/media/festive.jpg": "/walmart/static/media/festive.2c7e94cbabacacc650eb.jpg",
+    "static/media/man.PNG": "/walmart/static/media/man.1ef33b0fedc8ea0e6cc6.PNG",
+    "static/media/gifts.jpg": "/walmart/static/media/gifts.6be06643351754e62285.jpg",
+    "static/media/meals.jpg": "/walmart/static/media/meals.cfc3f89ee473106b84bd.jpg",
+    "static/media/singing.jpg": "/walmart/static/media/singing.2b5d4e183d3b6d684db1.jpg",
+    "static/media/bedroom.jpg": "/walmart/static/media/bedroom.5e0dc88629c69f799666.jpg",
+    "static/media/crochet.jpg": "/walmart/static/media/crochet.8bec7bd228ba2eb3d8b8.jpg",
+    "static/media/kitchen.jpeg": "/walmart/static/media/kitchen.ee31bf085d448bdcb263.jpeg",
+    "static/media/hp.jpeg": "/walmart/static/media/hp.2f72c7d40c05843e4099.jpeg",
+    "static/media/plentimart+.PNG": "/walmart/static/media/plentimart+.395b832f121adb9767ac.PNG",
+    "static/media/teapot.jpg": "/walmart/static/media/teapot.72a180a1e2eba35a1edd.jpg",
+    "static/media/gourmia.jpeg": "/walmart/static/media/gourmia.920e0ee3789f00d35938.jpeg",
+    "static/media/blackstone.jpeg": "/walmart/static/media/blackstone.77fd2dce092de56dd014.jpeg",
+    "static/media/gtracing.jpeg": "/walmart/static/media/gtracing.a07cce6a7a94263047e9.jpeg",
+    "static/media/micheal.jpeg": "/walmart/static/media/micheal.2eb80a3f1bcc5a714410.jpeg",
+    "static/media/xbox.jpeg": "/walmart/static/media/xbox.544be64925613ea912a3.jpeg",
+    "static/media/tlogo-p.png": "/walmart/static/media/tlogo-p.2bb23306afe6ec4bd97d.png",
+    "static/media/logo-p.png": "/walmart/static/media/logo-p.5796d5b6e9cb19a4630b.png",
+    "static/media/airpod.jpg": "/walmart/static/media/airpod.15b3e9ce3d9aea229d67.jpg",
+    "static/media/info.PNG": "/walmart/static/media/info.d8e5ee0a4e7fb1de9e96.PNG",
+    "index.html": "/walmart/index.html",
+    "main.1ea84552.css.map": "/walmart/static/css/main.1ea84552.css.map",
+    "main.02f20036.js.map": "/walmart/static/js/main.02f20036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea84552.css",
+    "static/js/main.02f20036.js"
+  ]
+}
