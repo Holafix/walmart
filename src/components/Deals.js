@@ -1,11 +1,11 @@
 import React from 'react';
-import laptop from '../Assets/product/hp.jpeg'
-import cooker from '../Assets/product/blackstone.jpeg'
-import game from '../Assets/product/xbox.jpeg'
-import chair from '../Assets/product/gtracing.jpeg'
-import cap from '../Assets/product/gourmia.jpeg'
-import cook from '../Assets/product/kitchen.jpeg'
-import jet from '../Assets/product/micheal.jpeg'
+import laptop from '../Assets/product/hp.jpeg';
+import cooker from '../Assets/product/blackstone.jpeg';
+import game from '../Assets/product/xbox.jpeg';
+import chair from '../Assets/product/gtracing.jpeg';
+import cap from '../Assets/product/gourmia.jpeg';
+import cook from '../Assets/product/kitchen.jpeg';
+import jet from '../Assets/product/micheal.jpeg';
 import { FaPlus } from "react-icons/fa6";
 import { IoIosHeartEmpty } from 'react-icons/io';
 import '../components/Deals.css';
