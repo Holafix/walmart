@@ -1,4 +1,5 @@
 import Deals from "./components/Deals";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 
@@ -13,6 +14,7 @@ function App() {
       <Deals/>
       {/* Top Deal */}
       {/* Foooter */}
+      <Footer/>
     </div>
   );
 }

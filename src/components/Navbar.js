@@ -59,7 +59,7 @@ const Navbar = () => {
                 </div>
             </div>
             {/* Info */}
-            <div className="bg-white h-0.5"></div>
+            <div className="bg-white h-0.5 sm:hidden"></div>
             <div className="flex items-center bg-[#0071dc] text-white py-2 px-4 whitespace-nowrap gap-10">
                 <div className="cursor-pointer flex items-center gap-2 sm:flex-1">
                     <div className="flex items-center gap-1.5">
