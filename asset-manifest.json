@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/walmart/static/css/main.1ea84552.css",
-    "main.js": "/walmart/static/js/main.02f20036.js",
+    "main.css": "/walmart/static/css/main.606d4913.css",
+    "main.js": "/walmart/static/js/main.a099debd.js",
     "static/media/festive.jpg": "/walmart/static/media/festive.2c7e94cbabacacc650eb.jpg",
     "static/media/man.PNG": "/walmart/static/media/man.1ef33b0fedc8ea0e6cc6.PNG",
     "static/media/gifts.jpg": "/walmart/static/media/gifts.6be06643351754e62285.jpg",
@@ -23,11 +23,11 @@
     "static/media/airpod.jpg": "/walmart/static/media/airpod.15b3e9ce3d9aea229d67.jpg",
     "static/media/info.PNG": "/walmart/static/media/info.d8e5ee0a4e7fb1de9e96.PNG",
     "index.html": "/walmart/index.html",
-    "main.1ea84552.css.map": "/walmart/static/css/main.1ea84552.css.map",
-    "main.02f20036.js.map": "/walmart/static/js/main.02f20036.js.map"
+    "main.606d4913.css.map": "/walmart/static/css/main.606d4913.css.map",
+    "main.a099debd.js.map": "/walmart/static/js/main.a099debd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ea84552.css",
-    "static/js/main.02f20036.js"
+    "static/css/main.606d4913.css",
+    "static/js/main.a099debd.js"
   ]
 }
